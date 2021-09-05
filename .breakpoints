@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.c": [
+      {
+        "id": "3bdbce4a-81bf-47b5-801e-2b180222a789",
+        "line": 148,
+        "version": 7865,
+        "index": 3503
+      }
+    ],
+    "mainEjemplo.c": [
+      {
+        "id": "b5731686-cd4f-413b-894a-9711899d744b",
+        "line": 38,
+        "version": 7,
+        "index": 738
+      }
+    ]
+  }
+}
